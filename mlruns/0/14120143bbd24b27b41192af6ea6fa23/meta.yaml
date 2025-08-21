@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/viresh/Desktop/Projects/mlflow/mlruns/0/14120143bbd24b27b41192af6ea6fa23/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14120143bbd24b27b41192af6ea6fa23
+run_name: nosy-shrimp-913
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755797014107
+status: 1
+tags: []
+user_id: viresh
